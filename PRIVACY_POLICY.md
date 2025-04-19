@@ -74,8 +74,8 @@ This Privacy Policy may be updated to reflect changes in the extension's functio
 
 If you have any questions or concerns about this Privacy Policy or the TimeLife extension, please contact us at:
 
-- Email: [your-email@example.com] (replace with your contact email)
-- GitHub Issues: [https://github.com/yourusername/timelife/issues] (replace with your GitHub repository URL if applicable)
+- Email: email@ondrejbarta.com
+- GitHub Issues: [https://github.com/bartaxyz/timelife/issues](https://github.com/bartaxyz/timelife/issues)
 
 ## Your Rights
 
